@@ -1,4 +1,4 @@
-# Seif Atef Portfolio
+#Doha Dev Portfolio
 
 A cinematic, interactive portfolio built with React, TypeScript, and GPU-accelerated visuals.
 
@@ -181,12 +181,3 @@ npm run preview
 npm run lint
 ```
 
-## Author
-
-### Seif Atef
-
-[![Seif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seif-a096&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true)](https://github.com/seif-a096)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Live%20Site-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://seif-atef-portfolio.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-seif--a096-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seif-a096)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-seif--atef-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seif-atef/)
